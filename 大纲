@@ -1,0 +1,39 @@
+基础知识
+1)JAVA基础
+2)JAVA 集合类 list map set及其衍生的 源码精读
+其中HashMap及ConcurrentHashMap源码精读  JDK1.7及1.8 衍生变化要深入了解
+比如红黑树 散列等等
+3) JAVA 并发编程  volatile，synchronized，lock，atomic都深入到原理级别
+JUC包热门源码精读 比如线程池 比如Threadlocal等等
+4）JVM 深入理解JAVA虚拟机书籍精读
+
+框架知识
+1）Spring 源码研究  初始化，xml配置源码等等
+2）mybatis 源码研究
+3）hibernate 源码研究
+
+
+操作系统及容器：
+1）linux及shell
+2）常见的运维部署  tomcat jboss等
+3）docker  k8s等等
+
+数据库
+1）重点看mysql吧  事务 引擎 索引 集群 优化 底层结构 原理
+2）分库分表 集群方式 读写分离 主从复制 数据路由
+
+微服务
+1）springboot
+2）springcloud
+
+分布式内容
+1）CAP/Base理论 zookeeper dubbo 深入 分布式锁实现（3种实现及原理） zk redis 数据库 分布式事务 数据一致性 等等 
+2）缓存 redis和memcache 深入研究 这边衍射去看下非关系型数据库mongodb 
+3）消息中间件 activemq rabbitmq kafka rocketmq 
+4）netty nio bio aio原理及写法
+
+算法：LeetCode刷题
+
+设计模式及架构设计
+
+计算机网络相关 TCPIP等等
